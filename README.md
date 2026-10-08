@@ -1,2 +1,2 @@
 # PowerShell-Endpoint-Automation
-PowerShell-based application install and windows configuration automation scripts for endpoints
+This repository contains PowerShell scripts for installing various applications and configuring components of the Windows OS using a RMM platform <br>
